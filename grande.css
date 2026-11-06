@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(#49a09d, #5f2c82);
+}
+main{
+    width: 950px;
+    height: 380px;
+}
+section#imagem{
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+section#formulario{
+    float: left;
+    width: calc(50% - 20px);
+}
+section#formulario > h1{
+    font-size: 2.1em;
+    margin-bottom: 10px;
+}
+section#formulario > p{
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+section#formulario input{
+    font-size: 1em;
+}
