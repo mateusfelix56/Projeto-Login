@@ -27,7 +27,3 @@ section#formulario > p{
 section#formulario input{
     font-size: 1em;
 }
-section#formulario a{
-    height: 32px;
-    padding-top: 8px;
-}
