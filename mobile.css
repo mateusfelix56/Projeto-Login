@@ -93,13 +93,13 @@ section#formulario input[type=submit]:hover{
 }
 section#formulario a{
     display: block;
-    height: 32px;
+    height: 31px;
     text-align: center;
     border: 1px solid #184d4b;
     border-radius: 6px;
     text-decoration: none;
     color: #184d4b;
-    padding-top: 8px;
+    padding-top: 9px;
 }
 section#formulario a:hover{
     background-color: #75e4e0;
